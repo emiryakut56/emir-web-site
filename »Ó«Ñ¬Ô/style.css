@@ -1,0 +1,86 @@
+body{
+   
+    font-family: 'Hahmlet';
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    color: rgb(141, 73, 10);
+}
+.menu{
+    display: flex;
+    margin-left:45px
+}
+
+.menu-right{
+    margin-left: 554px;
+}
+
+.menu-left p{
+    font-family: 'Lakki Reddy';
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.menu-right a{
+    font-size: 32px;
+    font-weight: 400;
+}
+.main{
+    background-image: url('./img/Group\ 1.png');
+    background-repeat: no-repeat;
+    background-position: 80% 40%;
+    background-size: 1000px;
+}
+
+.main-center h1,h2{
+    font-size: 128px;
+    margin-left: 332px;
+    color: #384A4D;
+}
+
+.main-center h2{
+    margin-left: 562px;
+}
+
+.main-right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main-right h2{
+   padding-right: 200px;
+}
+
+.main-left{
+    padding-left: 300px;
+}
+.main-left p {
+    font-size: 27px;
+}
+.give-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.give-text{
+    margin: 100px;
+    width: 403px;
+    background-color: #e6ecf1;
+    border: 1px solid #d51010;
+}
+
+.give-text h4, .give-text p{
+    margin-bottom: 145px;
+    margin-left: 26px;
+    margin-right: 36px;
+}
+
+.give-text h4{
+    font-size: 24px;
+}
+
+.give-text p{
+    font-size: 14px;
+}
